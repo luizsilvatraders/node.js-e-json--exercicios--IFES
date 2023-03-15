@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "João Silva",
+    "endereco": "Rua A, 123",
+    "nacionalidade": "Brasileiro",
+    "idade": 35,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Maria Santos",
+    "endereco": "Avenida B, 456",
+    "nacionalidade": "Brasileira",
+    "idade": 28,
+    "sexo": "Feminino"
+  },
+  {
+    "nome": "Pedro Souza",
+    "endereco": "Rua C, 789",
+    "nacionalidade": "Brasileiro",
+    "idade": 42,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Ana Ferreira",
+    "endereco": "Avenida D, 1011",
+    "nacionalidade": "Brasileira",
+    "idade": 19,
+    "sexo": "Feminino"
+  },
+  {
+    "nome": "José Oliveira",
+    "endereco": "Rua E, 1213",
+    "nacionalidade": "Brasileiro",
+    "idade": 56,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Carla Silva",
+    "endereco": "Avenida F, 1415",
+    "nacionalidade": "Brasileira",
+    "idade": 32,
+    "sexo": "Feminino"
+  },
+  {
+    "nome": "Ricardo Souza",
+    "endereco": "Rua G, 1617",
+    "nacionalidade": "Brasileiro",
+    "idade": 24,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Márcia Oliveira",
+    "endereco": "Avenida H, 1819",
+    "nacionalidade": "Brasileira",
+    "idade": 45,
+    "sexo": "Feminino"
+  },
+  {
+    "nome": "Antônio Santos",
+    "endereco": "Rua I, 2021",
+    "nacionalidade": "Brasileiro",
+    "idade": 38,
+    "sexo": "Masculino"
+  },
+  {
+    "nome": "Juliana Ferreira",
+    "endereco": "Avenida J, 2223",
+    "nacionalidade": "Brasileira",
+    "idade": 31,
+    "sexo": "Feminino"
+  }
+]
